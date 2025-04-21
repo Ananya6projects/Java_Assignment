@@ -1,6 +1,6 @@
 package com.xworkz.interfaces;
 
-public class Armstrong {
+public class ArmStrong {
         public static void main(String[] args) {
             int number = 370;
             int originalNumber = number;
@@ -30,8 +30,6 @@ public class Armstrong {
             }
         }
     }
-
-
 
 
 
